@@ -106,7 +106,7 @@ You can find more detailed explanation with plots in this [Medium post](https://
 2. Starbucks_Capstone_notebook.ipynb: This is the main file where all the work was done.
 3. Starbucks_Capstone_notebook.html: The HTML version of the previous file.
 4. Readme file: A file to provide project description and summary of the results.
-5. Blog Poston Medium.docx: An MS Word file used to write the post before publishing it on Medium.
+5. Blog Post on Medium.docx: An MS Word file used to write the post before publishing it on Medium.
 6. pic1.png & pic2.png: Photos used for illustration inside the Jupyter notebook file.
 
 
