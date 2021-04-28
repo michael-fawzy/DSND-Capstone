@@ -98,7 +98,7 @@ Event log (306648 events x 4 fields)
 - **As a final conclusive result, the company should focus more on sending discount offers to higher income customers of all genders in the age group 59-64 since this group tends to pay more and complete more offers. However the data still hides a lot under the hat, and the possibilities look endless!**
 
 
-You can find more detailed explanation with plots in this [HubPages post](https://hubpages.com/technology/Offers-Offers-Offers-From-Starbucks)
+You can find more detailed explanation with plots in this [Medium post](https://michaelfawzy.medium.com/offers-offers-offers-from-starbucks-88707094a5fa)
 
 ## Files
 
@@ -106,7 +106,7 @@ You can find more detailed explanation with plots in this [HubPages post](https:
 2. Starbucks_Capstone_notebook.ipynb: This is the main file where all the work was done.
 3. Starbucks_Capstone_notebook.html: The HTML version of the previous file.
 4. Readme file: A file to provide project description and summary of the results.
-5. Blog Post.docx: An MS Word file used to write the post before publishing it on HubPages.
+5. Blog Post.docx: An MS Word file used to write the post before publishing it on Medium.
 6. pic1.png & pic2.png: Photos used for illustration inside the Jupyter notebook file.
 
 
